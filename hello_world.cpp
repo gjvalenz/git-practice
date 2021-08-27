@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(int argc, int** argv){
-	std::cout << "Hello, World!" << std::endl;
+	std::cout << "Fight on!" << std::endl;
 	return 0;
 }
